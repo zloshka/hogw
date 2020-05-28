@@ -115,7 +115,7 @@ h2 {
         
       }
 
-      .box3 a {
+      .box3 a {text-decoration: none;
         border-top: 1px solid #ffffff;
         padding: 10px;
         margin: 0;
@@ -224,12 +224,13 @@ h2 {  text-align: center;
         
       }
 
-      .box3 a {
+      .box3 a {text-decoration: none;
         border-top: 1px solid #ffffff;
         padding: 10px;
         margin: 0;
         grid-column: 1/4;
         color: #e1d2cf;
+        
       }
 
  

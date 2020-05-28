@@ -33,8 +33,8 @@ transition:.3s linear;
   color: #ffffff;}
 
 
-@media screen and (min-width: 700px) {
-  /* CSS-стили */
+/* @media screen and (min-width: 700px) {
+  CSS-стили */
 
 * {    font-family: 'Times New Roman', Times, serif;  
 }
@@ -141,12 +141,12 @@ h2 {
   .box3 p{text-align: center;  color: white; }
   .box5 .diviz{text-align: end;  }
   .box5 p{margin: 8px;   }
-}
+/* } */
 
 
 /* Экранчик по меньше */
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) , only screen and (max-device-width: 600px) {
   /* CSS-стили */
 
 * {    font-family: 'Times New Roman', Times, serif;  
